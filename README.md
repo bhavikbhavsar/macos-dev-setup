@@ -1,9 +1,9 @@
 # 🍎 macOS Developer Setup Automation
 
 <!-- Badges -->
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/mac-setup.svg?style=social&label=Star)](https://github.com/yourusername/mac-setup)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/mac-setup.svg?style=social&label=Fork)](https://github.com/yourusername/mac-setup/fork)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/mac-setup.svg)](https://github.com/yourusername/mac-setup/issues)
+[![GitHub stars](https://img.shields.io/github/stars/bhavikbhavsar/macos-dev-setup.svg?style=social&label=Star)](https://github.com/bhavikbhavsar/macos-dev-setup)
+[![GitHub forks](https://img.shields.io/github/forks/bhavikbhavsar/macos-dev-setup.svg?style=social&label=Fork)](https://github.com/bhavikbhavsar/macos-dev-setup/fork)
+[![GitHub issues](https://img.shields.io/github/issues/bhavikbhavsar/macos-dev-setup.svg)](https://github.com/bhavikbhavsar/macos-dev-setup/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **From 6 hours to 12 minutes**: Automate your entire macOS developer environment setup with a single command.
@@ -71,8 +71,8 @@ Automatically installs via Homebrew:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mac-setup.git
-cd mac-setup
+git clone https://github.com/bhavikbhavsar/macos-dev-setup.git
+cd macos-dev-setup
 
 # 🎯 IMPORTANT: Customize Git settings (30 seconds)
 # Edit these lines in setup.sh:
@@ -150,7 +150,7 @@ alias myproject="cd ~/Developer/my-awesome-project"
 
 *Share your company/team! Open a PR to add your organization.*
 
-- [ ] Your Company Here - *[Add yours!](https://github.com/yourusername/macos-dev-setup/pulls)*
+- [ ] Your Company Here - *[Add yours!](https://github.com/bhavikbhavsar/macos-dev-setup/pulls)*
 
 ## 📊 Stats
 
@@ -181,7 +181,7 @@ We love contributions! This project thrives on community input.
 
 ## 💬 Community
 
-- **💭 Discussions**: Share your customizations in [Issues](https://github.com/yourusername/mac-setup/issues)
+- **💭 Discussions**: Share your customizations in [Issues](https://github.com/bhavikbhavsar/macos-dev-setup/issues)
 - **🐛 Bug Reports**: Found something broken? Please report it!  
 - **💡 Feature Requests**: Got ideas? We'd love to hear them!
 - **🎉 Show & Tell**: Share your customized setup
@@ -245,6 +245,6 @@ MIT License - Use it, fork it, love it! See [LICENSE](LICENSE) file for details.
   
 **⭐ Don't forget to star the repo if this helped you! ⭐**
 
-Made something cool with this setup? [Share it with us!](https://github.com/yourusername/mac-setup/issues/new?template=show-and-tell.md)
+Made something cool with this setup? [Share it with us!](https://github.com/bhavikbhavsar/macos-dev-setup/issues/new?template=show-and-tell.md)
 
 </div>
