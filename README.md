@@ -146,11 +146,6 @@ Customize `.zshrc` with your aliases and functions:
 alias myproject="cd ~/Developer/my-awesome-project"
 ```
 
-## 🏆 Used By Developers At
-
-*Share your company/team! Open a PR to add your organization.*
-
-- [ ] Your Company Here - *[Add yours!](https://github.com/bhavikbhavsar/macos-dev-setup/pulls)*
 
 ## 📊 Stats
 
@@ -214,9 +209,6 @@ We love contributions! This project thrives on community input.
 
 **Roadmap** (vote on priorities in Issues!):
 - [ ] **GUI setup tool** for non-technical users
-- [ ] **Team configurations** with shared Brewfiles  
-- [ ] **Cloud sync** for dotfiles across machines
-- [ ] **Docker version** for isolated testing
 - [ ] **Linux/Windows** support
 
 ## 📄 License
@@ -237,7 +229,7 @@ MIT License - Use it, fork it, love it! See [LICENSE](LICENSE) file for details.
 
 **Built with ❤️ by developers, for developers.**
 
-*Last updated: [Current Date] - Always improving! 🚀*
+*Last updated: 29 September 2025 - Always improving! 🚀*
 
 ---
 
