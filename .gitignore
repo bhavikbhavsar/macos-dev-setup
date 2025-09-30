@@ -1,5 +1,10 @@
 # Marketing and internal notes (keep private)
 MARKETING_NOTES.md
+PROJECT_STATUS.md
+
+# Architecture planning documents (keep private)
+rust-architecture.md
+go-architecture.md
 
 # macOS files
 .DS_Store
